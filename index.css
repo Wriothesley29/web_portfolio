@@ -13,21 +13,21 @@
     font-family: "Koulen", sans-serif;
 }
 .banner_text h2 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     color: #fdffff;
     font-weight: 500;
   }
   .banner_text h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     color: #fdffff;
-    line-height: 3rem;
+    line-height: 3.5rem;
     font-weight: 500;
   }
   .banner_text h3 {
     color: #fdffff;
     font-weight: 400;
-    font-size: 3rem;
-    margin: 2rem 0;
+    font-size: 2.5rem;
+    margin: 1rem 0;
   }
   .banner_text h3 span{
     color: #00F0FF;
