@@ -177,10 +177,14 @@
     background: transparent;
     color: #00F0FF;
     border: 3px solid #00F0FF;
+    transition: .5s;
   }
   .form button:hover{
-    color: #1C1C17;
     background: #00F0FF;
+    color: #1C1C17;
+    font-weight: 700;
+    box-shadow: 0 0 1rem #00F0FF;
+    transition: 0.5s;
   }
   .footer{
     background: #141411;
